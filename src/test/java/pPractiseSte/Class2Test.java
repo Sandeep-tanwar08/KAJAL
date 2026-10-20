@@ -1,11 +1,9 @@
 package pPractiseSte;
 
-public class Class3 {
+public class Class2Test {
 
-	public Class3() {
+	public Class2Test() {
 		// TODO Auto-generated constructor stub
-		//
-		//
 	}
 
 }

@@ -1,8 +1,8 @@
 package pPractiseSte;
 
-public class Anika {
+public class CnhaTest {
 
-	public Anika() {
+	public CnhaTest() {
 		// TODO Auto-generated constructor stub
 	}
 

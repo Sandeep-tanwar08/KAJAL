@@ -4,9 +4,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.*;
 
-public class Class1 {
+public class Class1Test {
 
-	public Class1() {
+	public Class1Test() {
 		// TODO Auto-generated constructor stub
 	}
 
