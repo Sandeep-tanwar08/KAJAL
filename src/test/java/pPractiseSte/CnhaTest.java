@@ -1,8 +1,10 @@
 package pPractiseSte;
+import org.testng.annotations.Test;
 
 public class CnhaTest {
-
-	public CnhaTest() {
+@Test
+	public void aTest() {
+	System.out.println("chiggu test");
 		// TODO Auto-generated constructor stub
 	}
 
