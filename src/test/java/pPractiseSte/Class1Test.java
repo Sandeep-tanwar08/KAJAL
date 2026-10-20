@@ -1,5 +1,6 @@
 package pPractiseSte;
 import org.openqa.selenium.By;
+import org.testng.annotations.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.*;
@@ -9,8 +10,8 @@ public class Class1Test {
 	public Class1Test() {
 		// TODO Auto-generated constructor stub
 	}
-
-	public static void main(String[] args) {
+@Test
+	public  void mainTest(){
 		// TODO Auto-generated method stub
 		
 		WebDriver driver = new ChromeDriver();

@@ -1,14 +1,16 @@
 package pPractiseSte;
 
-public class AnikaTest {
+import org.testng.annotations.Test;
 
-	public AnikaTest() {
+public class AnikaTest {
+	
+	@Test
+
+	public void methodTest() {
+		System.out.println("Test clas 1 method ");
 		// TODO Auto-generated constructor stub
 	}
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	
 
 }

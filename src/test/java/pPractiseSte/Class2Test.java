@@ -1,8 +1,11 @@
 package pPractiseSte;
 
-public class Class2Test {
+import org.testng.annotations.Test;
 
-	public Class2Test() {
+public class Class2Test {
+@Test
+	public void Test() {
+	System.out.println("Anotheer test ");
 		// TODO Auto-generated constructor stub
 	}
 
